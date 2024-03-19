@@ -4,7 +4,7 @@
 
 ### 1. Downloading the Evidence File
 - **Description:** This step involves downloading the provided evidence. The evidence file contains data that will be analyzed and recovered using Foremost.
-- ![Screenshot of Step 1](https://github.com/salihaaaaa/forensics-data-carving-lab/Download-evidence.png)
+- ![Screenshot of Step 1](https://github.com/salihaaaaa/forensics-data-carving-lab/blob/main/Download-evidence.PNG)
 
 ### 2. Viewing the Foremost Help Message
 - **Description:** Before proceeding with data carving, it's essential to understand the commands and options available in Foremost. The help message provided by Foremost outlines various command-line options and syntax for file carving.
